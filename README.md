@@ -2,7 +2,7 @@
 Automated 3D magnetic flux density mapping system
 
 #Software and hardware
-- Ubuntu 20
+- Ubuntu 20.04
 - Python 3.9
 - Arduino UNO: https://store.arduino.cc/usa/arduino-uno-rev3
 - Arduino gShield: https://synthetos.com/project/grblshield
