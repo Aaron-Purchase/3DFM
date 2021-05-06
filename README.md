@@ -37,7 +37,6 @@ Automated 3D magnetic flux density mapping system
 
 #Various useful code
 - 'rewind.py' to be used to bring gantry head back to starting point (no measurements).
-- 'xprojection1D_mapper.py' plot field along the x-axis (defined by you).
 
 #Future work
 - GUI
