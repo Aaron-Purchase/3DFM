@@ -1,12 +1,12 @@
 Automated 3D magnetic field mapping that uses: (a) GRBL-based CNC controller and (b) THM1176 Hall probe
 
 #Software and hardware
-Ubuntu 20
-Python 3.9
-Arduino UNO: https://store.arduino.cc/usa/arduino-uno-rev3
-Arduino gShield: https://synthetos.com/project/grblshield
-Any 3D CNC/3D printer arm (see picture in 3DFM/Photo/)
-USB Hall-probe (Metrolab THM1176 used here). 
+- Ubuntu 20
+- Python 3.9
+- Arduino UNO: https://store.arduino.cc/usa/arduino-uno-rev3
+- Arduino gShield: https://synthetos.com/project/grblshield
+- Any 3D CNC/3D printer arm (see picture in 3DFM/Photo/)
+- USB Hall-probe (Metrolab THM1176 used here). 
 
 #Installation
 1. Install single trigger code for the THM1176 probe (https://github.com/Hyperfine/pyTHM1176/tree/cedh/single_trig/)
